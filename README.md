@@ -17,7 +17,7 @@ Plantillas oficiales para documentar el trabajo del equipo de sistemas de **Booc
 | :--- | :--- |
 | `EJ-03-02-01` | Haces un **fork**, mejoras una plantilla en tu copia y abres un Pull Request hacia aquí |
 | `EJ-03-02-02` | Lo añades como **`upstream`** de tu fork para traerte sus novedades |
-| `EJ-05-03-03` | Lo enlazas como **submódulo** dentro de tu repositorio de manuales |
+| `EJ-05-03-02` | Lo enlazas como **submódulo** dentro de tu repositorio de manuales |
 
 > **Los Pull Requests que ves abiertos en este repositorio son ejercicios de alumnos.** No tienes permiso de escritura aquí: por eso se trabaja con un fork.
 
